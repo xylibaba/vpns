@@ -6,3 +6,4 @@ vless://001a44d7-69e6-07d0-8d11-828fe2119621@109.120.191.199:443?flow=xtls-rprx-
 vless://68b053e1-2e92-4180-b3c9-9a5cb50642b7@185.86.147.242:7443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0&sni=max.ru&sid=abcd1234#🇬🇧 #2 Великобритания ⚡
 vless://148c2937-fb6d-01f4-93a8-369b1fbc9791@109.120.191.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 #3 Германия ⚡
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇨🇦 #4 Канада ⚠️
+vless://d0928a7c-1b67-0021-9d7d-c67fb3e86bc5@perecbass.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=safari&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&type=tcp##5 Эстония ⚡
