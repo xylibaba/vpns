@@ -1,6 +1,4 @@
 # profile-title: ОБХОД VPN
-# profile-web-page-url: https://t.me/craazy_channel
-# subscription-userinfo: upload=0; download=0; total=0; expire=0
 # profile-update-interval: 24
 # profile-dns: 84.21.189.133, 193.23.209.189, 2a12:bec4:1460:294::2, 2a01:ecc0:680:120::2
 # announce: ⚠️ Сервера #1 #4 могут отъебывать!
