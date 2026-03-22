@@ -1,6 +1,7 @@
 # profile-title: ОБХОД VPN
 # profile-update-interval: 24
 #announce: Сервера #1 #4 могут отъебывать!
+profile-web-page-url: https://t.me/xylibaba
 
 vless://b11a0da8-8ae2-4c9e-b36f-498fc10c4d7f@87.239.108.204:9443?security=reality&encryption=none&pbk=HCPPIX3L2I1oLb9SuaciNlqJ2NgANq7_hCZN3Cs7LzM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=8f1f3f#%F0%9F%87%A9%F0%9F%87%AA+%231+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://eb985aed-539d-03e8-98b5-335a5bb5b5ad@5.188.140.211:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%A9%F0%9F%87%AA+%232+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
