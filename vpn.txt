@@ -1,7 +1,6 @@
 # profile-title: ОБХОД VPN
 # profile-update-interval: 12
-# profile-dns: 84.21.189.133, 193.23.209.189, 2a12:bec4:1460:294::2, 2a01:ecc0:680:120::2
-# announce: ⚠️ Сервера #3 #6 #9 могут отъебывать! | ⚡ = Наименьший пинг
+# announce: ⚠️ Сервера #3 #6 #9 могут отъебывать! | 🏳️ = Работают при глушилках/белых списках | ⚡ = Наименьший пинг
 
 vless://eb985aed-539d-07d0-98b5-335a5bb5b5ad@89.208.230.167:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%B7%F0%9F%87%BA+%231+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%9A%A1+%F0%9F%8F%B3%EF%B8%8F
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA+%232+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%9A%A1+%F0%9F%8F%B3%EF%B8%8F
