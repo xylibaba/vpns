@@ -1,5 +1,5 @@
 # profile-title: ОБХОД VPN
-# profile-update-interval: 24
+# profile-update-interval: 1488
 # profile-dns: 84.21.189.133, 193.23.209.189, 2a12:bec4:1460:294::2, 2a01:ecc0:680:120::2
 # announce: ⚠️ Сервера #1 #4 могут отъебывать!
 
